@@ -6,14 +6,14 @@ Training and testing classification-based association rule mining for predicting
 ```
 Training:
          Accuracy : 0.877
-**Balanced Accuracy : 0.7711**
+Balanced Accuracy : 0.7711
       Sensitivity : 0.6228        
       Specificity : 0.9193
    Pos Pred Value : 0.5591
 
 Testing:
          Accuracy : 0.87
-**Balanced Accuracy : 0.7593**
+Balanced Accuracy : 0.7593
       Sensitivity : 0.6087        
       Specificity : 0.9100
    Pos Pred Value : 0.5091
