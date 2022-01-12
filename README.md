@@ -1,5 +1,5 @@
 # Brittle-Predictor
-Training and testing classification-based association rule mining for predicting brittle paper in library collections.
+Training and testing classification-based association rule mining for predicting brittle paper in library collections. Training data collected from item-level survey of F1000-F3999 to determine/identify brittle paper. [Place of publication](https://www.loc.gov/marc/bibliographic/bd043.html) and [Publication Dates](https://www.loc.gov/marc/bibliographic/bd260.html) collected from MARC21 bibliographic records. Age and Region generated from bibliographic data.
 
 ## Summary of CBA Models
 ***CBA***
