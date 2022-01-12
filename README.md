@@ -22,14 +22,14 @@ Balanced Accuracy : 0.7593
 ```
 Training:
          Accuracy : 0.865
-**Balanced Accuracy : 0.804**
+Balanced Accuracy : 0.804
       Sensitivity : 0.719        
       Specificity : 0.889
    Pos Pred Value : 0.516
 
 Testing:
          Accuracy : 0.85
-**Balanced Accuracy : 0.7937**
+Balanced Accuracy : 0.7937
       Sensitivity : 0.7174        
       Specificity : 0.4583
    Pos Pred Value : 0.5091
