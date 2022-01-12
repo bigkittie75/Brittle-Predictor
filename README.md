@@ -10,6 +10,7 @@ Confusion Matrix and Statistics
 |**Brittle**|71|56|
 |**Not Brittle**|43|638|
 
+```
                Accuracy : 0.877         
                  95% CI : (0.853, 0.899)
     No Information Rate : 0.859         
