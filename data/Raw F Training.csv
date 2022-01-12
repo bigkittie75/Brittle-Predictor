@@ -1,0 +1,1155 @@
+DISPLAY_CALL_NO,PubDate,PlaceCode,Age,Region,Brittle
+F1001 .C124,1954,onc,65,North America,0
+F1001 .C124,1954,onc,47,North America,0
+F1001 .C13,1881,onc,138,North America,1
+F1001 .C13,1881,onc,133,North America,0
+F1001 .C205,1898,onc,121,North America,1
+F1001 .C215,1971,onc,48,North America,0
+F1001 .C215,1971,onc,48,North America,0
+F1001 .C26,1915,onc,104,North America,0
+F1001 .C27,1920,onc,99,North America,0
+F1001 .C28,1925,enk,94,Europe,1
+F1001 .D6,1968,quc,32,North America,0
+F1001 .D6,1973,quc,41,North America,0
+F1001 .E55,1900,onc,114,North America,0
+F1001 .F43a,1900,pic,114,North America,0
+F1001 .G4,1967,onc,52,North America,0
+F1001 .I48,1989,onc,30,North America,0
+F1001 .I48,1989,onc,30,North America,0
+F1001 .J68,1966,onc,48,North America,0
+F1001 .J68,1966,onc,53,North America,0
+F1001 .J68,1966,onc,53,North America,0
+F1001 .R48,1947,quc,67,North America,0
+F1001 .R48,1947,quc,72,North America,0
+F1001 .V54,1952,quc,67,North America,0
+F1004 .C65 1983,1983,onc,31,North America,0
+F1004 .O5,1967,mbc,47,North America,0
+F1005 .D49,1700,onc,319,North America,0
+F1005 .L81,1923,onc,91,North America,0
+F1005 .M23,1978,onc,41,North America,0
+F1005 .P76 1993,1993,onc,26,North America,0
+F1006 .E625 1968,1968,onc,51,North America,0
+F1006 .E625 1972,1972,onc,42,North America,0
+F1006 .E625 1972,1972,onc,42,North America,0
+F1008 .A54,1973,dcu,41,North America,0
+F1008 .B77 1968,1968,nyu,46,North America,0
+F1008 .C297 1860a,1860,quc,159,North America,1
+F1008 .E3,1962,nyu,57,North America,0
+F1008 .F58,1900,onc,119,North America,1
+F1008 .G8,1913,enk,101,Europe,0
+F1008 .H44,1934,enk,80,Europe,0
+F1008 .M968,1939,stk,75,Europe,0
+F1008 .S572,1966,xxc,34,North America,0
+F1009 .C19 1931,1931,xx,88,No place,0
+F1009 .C23,1891,nyu,128,North America,0
+F1009 .E28,2001,ilu,18,North America,0
+F1009 .G85,1983,ctu,36,North America,0
+F1009 .H55 1977,1977,ilu,37,North America,0
+F1009 .Q5,1972,onc,42,North America,0
+F1009 .Q5,1945,onc,69,North America,0
+F1009 .S66 1995,1995,flu,24,North America,0
+F1012 .S46 1985,1985,onc,15,North America,0
+F1015 .C952,1936,quc,78,North America,0
+F1015 .M84,1905,enk,114,Europe,0
+F1016 .C613 1969b,1969,enk,50,Europe,0
+F1016 .K7,1970,onc,49,North America,0
+F1019 .C36,1977,onc,42,North America,0
+F1021 .A46,1987,gw,32,Europe,0
+F1021 .B94,1986,stk,33,Europe,0
+F1021 .K87 1975b,1975,quc,44,North America,0
+F1022 .A56,1972,fr,47,Europe,0
+F1024 .P76,1981,ru,38,Europe,0
+F1025 .C364 1996,1996,it,23,Europe,0
+F1026 .B58,1855,quc,164,North America,0
+F1026 .C76 1971b,1971,enk,29,Europe,0
+F1026 .G69 2011,2011,mdu,8,North America,0
+F1026 .G76,1919,enk,100,Europe,0
+F1026 .L75 1964,1964,onc,55,North America,0
+F1026 .M18,1948,xx,66,No place,0
+F1026 .M36,1943,nyu,76,North America,0
+F1026 .W74,1907,enk,112,Europe,0
+F1026 .W76,1953,gw,66,Europe,0
+F1027 .A23,1933,quc,86,North America,0
+F1027 .A23,1933,quc,81,North America,0
+F1027 .B93,1884,quc,130,North America,0
+F1027 .C22342,1967,onc,47,North America,0
+F1027 .G23,1905,quc,109,North America,0
+F1027 .H33 2009,2009,quc,10,North America,0
+F1027 .J32,1975,onc,39,North America,0
+F1027 .M28,1943,quc,71,North America,0
+F1027 .N3,1972,ru,47,Europe,0
+F1027 .O67,1915,onc,104,North America,0
+F1027 .S56,1944,onc,75,North America,0
+F1027 .S62,1965,xx,35,No place,0
+F1027 .T4 2007,2007,onc,12,North America,0
+F1027 .V3,1968,quc,46,North America,0
+F1027 .V58,1970,onc,30,North America,0
+F1028 .G729 2011,2011,onc,8,North America,0
+F1029 .C24a,1972,xx,42,No place,0
+F1029 .C3,1941,onc,78,North America,0
+F1029 .C324,1992,pau,27,North America,0
+F1029 .C33,1950,onc,69,North America,0
+F1029 .G76 1985,1985,onc,29,North America,0
+F1030 .B65,1961,xx,53,No place,0
+F1030 .C12,1900,fr,119,Europe,1
+F1030 .C48,1866,nyu,153,North America,1
+F1030 .H32,1900,fr,119,Europe,1
+F1030 .L173 1974,1974,quc,26,North America,0
+F1030 .L424,1878,onc,141,North America,0
+F1030 .L475,1937,onc,77,North America,0
+F1030 .L645,1866,fr,148,Europe,0
+F1030 .N54,1885,quc,134,North America,1
+F1030 .P24,1897,mau,122,North America,0
+F1030 .S28 1968,1968,nyu,51,North America,0
+F1030 .W18 1953,1953,onc,61,North America,0
+F1030.D862 A4,1970,quc,30,North America,0
+F1032 .A6,1850,quc,169,North America,1
+F1032 .A83 1988,1988,quc,26,North America,0
+F1032 .E93,1841,dcu,178,North America,0
+F1032 .G82 1993,1993,onc,26,North America,0
+F1032 .M16,1841,nyu,170,North America,0
+F1032 .P365 2001,2001,quc,18,North America,0
+F1033 .B76,1938,onc,76,North America,0
+F1033 .C23,1910,onc,109,North America,0
+F1033 .C23,1910,onc,109,North America,0
+F1033 .G59,1928,xx,91,No place,0
+F1033 .M134,1971,onc,48,North America,0
+F1033 .T94,1928,quc,86,North America,0
+F1033 .W18,1869,xx,145,No place,0
+F1033 .W62,1922,onc,97,North America,0
+F1033 .W62,1922,onc,97,North America,0
+F1033.K53 H36,1970,ctu,30,North America,0
+F1034 .A5 1946d,1946,onc,73,North America,0
+F1034 .B4,1954,onc,65,North America,0
+F1034 .B4,1955,onc,64,North America,1
+F1034 .B4 vol. 1 no. 3,1940,onc,79,North America,0
+"F1034 .B4 vol. 13, no. 6",1953,xxc,66,North America,0
+"F1034 .B4 vol. 33, no. 4",1974,onc,40,North America,0
+F1034.B65 M8,1968,quc,46,North America,0
+F1034.H6 R6,1957,onc,43,North America,0
+F1034.L46 C37 2000,2000,quc,19,North America,0
+F1034.M35 B56 1986,1986,onc,28,North America,0
+F1035.A1 B59 1986,1986,onc,33,North America,0
+F1035.A1 C314a,2000,quc,19,North America,0
+F1035.A1 C35,1969,abc,50,North America,0
+F1035.A1 C354a,1974,onc,45,North America,0
+F1035.A1 E87,1979,onc,35,North America,0
+F1035.C5 F47 2006,2006,bcc,13,North America,0
+F1035.E3 O57 1976,1976,onc,38,North America,0
+F1035.F5 L57 1991,1991,fi,23,Europe,0
+F1035.G3 C35,1977,onc,42,North America,0
+F1035.G3 P76 1996,1996,onc,23,North America,0
+F1035.G3 S63 1984,1984,gw,16,Europe,0
+F1035.J5 B85,1954,quc,52,North America,0
+F1035.J5 C23,1955,miu,59,North America,0
+F1035.J5 C23 no. 3,1975,quc,44,North America,0
+F1035.J5 Z57 2004,2004,quc,15,North America,0
+F1035.M87 B45 2008,2008,onc,11,North America,0
+F1035.P6 R3,1976,onc,24,North America,0
+F1035.R65 H37 1994,1994,ohu,20,North America,0
+F1035.S47 M57 1995,1995,yu,24,Europe,0
+F1035.U5 H37,1973,bcc,41,North America,0
+F1035.U5 K59 1985,1985,abc,29,North America,0
+F1036 .N928,1981,nsc,38,North America,0
+F1036 .N928,1981,nsc,33,North America,0
+F1038 .C53,1968,wiu,32,North America,0
+F1038 .C664 2004,2004,onc,15,North America,0
+F1038 .F68 1996,1996,fr,23,Europe,0
+F1038 .H28,1975,quc,25,North America,0
+F1039.C2 B76,1869,enk,145,Europe,0
+F1039.C5 W38,1930,nkc,89,North America,0
+F1039.C8 N6,1960,nsc,40,North America,0
+F1039.P6 P3335 1977,1977,nsc,23,North America,0
+F1040.A1 B36,1978,onc,22,North America,0
+F1043 .F57 1980,1980,nkc,20,North America,0
+F1043 .L41,1883,nkc,131,North America,0
+F1043 .R26,1905,nkc,114,North America,1
+F1044.C4 F38 1995,1995,nkc,24,North America,0
+F1050 .D4,1957,xx,57,No place,0
+F1051 .F67,1967,quc,52,North America,0
+F1051 .L81,1882,quc,132,North America,0
+F1051 .Q317a,2007,quc,12,North America,0
+F1051 .Q327,1900,onc,119,North America,0
+F1051 .Q33,1983,nyu,36,North America,0
+F1051 .R46,1986,quc,28,North America,0
+F1051 .S675,1947,quc,53,North America,0
+F1051 .U56a,1963,quc,56,North America,0
+F1051. Q25,1900,quc,114,North America,0
+F1052 .B318,1934,quc,80,North America,0
+F1052 .D793 2009,2009,quc,10,North America,0
+F1052 .M15,1952,nyu,67,North America,0
+F1052 .Q392,1967,quc,52,North America,0
+F1052 .Q3934 1977,1977,quc,37,North America,0
+F1052 .S96,1922,onc,97,North America,0
+F1053 .B24,1974,quc,40,North America,0
+F1053 .B465 1994,1994,quc,25,North America,0
+F1053 .B665 2004,2004,quc,15,North America,0
+F1053 .C57 1982,1982,onc,18,North America,0
+F1053 .G7613,1973,bcc,46,North America,0
+F1053 .H29,1972,quc,28,North America,0
+F1053 .L158 1998,1998,quc,21,North America,0
+F1053 .R93,1940,quc,74,North America,0
+F1053 .S47,1916,xxc,98,North America,0
+F1053 .T63 2003,2003,quc,16,North America,0
+F1053.L115 D87 1983,1983,quc,17,North America,0
+F1054.A6 G73 2007,2007,quc,12,North America,0
+F1054.B56 M5,1925,quc,89,North America,0
+F1054.C2 G3,1899,quc,120,North America,0
+F1054.G2 B7 1940,1940,nyu,60,North America,0
+F1054.G2 R4,1970,quc,44,North America,0
+F1054.I35 C36 1936,1936,onc,83,North America,0
+F1054.R7 Q8,1947,xx,72,No place,0
+F1054.S14 S24,1959,quc,55,North America,0
+F1054.S14 S24,1959,quc,55,North America,0
+F1055.A1 L33 1995,1995,quc,24,North America,0
+F1055.I6 B87 1998,1998,quc,21,North America,0
+F1056 .M47,1921,onc,98,North America,1
+F1056 .O49,1928,onc,86,North America,0
+F1056 .O56,1900,onc,119,North America,0
+F1056 .O58,1899,onc,120,North America,0
+F1056 .S62,1981,onc,33,North America,0
+F1057 .A46a,2000,flu,19,North America,0
+F1057 .A46a,2000,flu,19,North America,0
+F1057 .G28,1813,xx,206,No place,0
+F1057 .H85 1821a,1970,onc,44,North America,0
+F1057 .M8 1976,1976,onc,38,North America,0
+F1057 .S89,1820,stk,199,Europe,0
+F1058 .D57,1974,bcc,40,North America,0
+F1058 .O62,1923,onc,91,North America,0
+F1058 .P3,1964,onc,36,North America,0
+F1058 .R94,1932,onc,82,North America,0
+F1058 .R94,1932,onc,87,North America,0
+F1058 .S46,1916,xxc,98,North America,0
+F1058 .S574,1926,onc,93,North America,0
+F1059.B82 W35 1984,1984,xx,30,No place,0
+F1059.G3 M34 1994,1994,onc,25,North America,0
+F1059.H92 C3,1968,onc,46,North America,0
+F1059.H92 H85,1965,onc,49,North America,0
+F1059.M65 G43 1992,1992,onc,27,North America,0
+F1059.O6 W48 1994,1994,onc,20,North America,0
+F1059.P3 R54 2003,2003,onc,16,North America,0
+F1059.T5 L43,1980,nyu,39,North America,0
+F1060 .B962,1935,xx,79,No place,0
+F1060 .C22,1870,onc,149,North America,0
+F1060 .C35,1960,onc,59,North America,0
+F1060 .H86 (Office),1921,mau,98,North America,0
+F1060 .H88,1800,xx,219,No place,1
+F1060.8.P66 D45,1966,abc,53,North America,0
+F1060.9 .C25,1890,xxc,129,North America,0
+F1060.9 .H66 1989,1989,onc,11,North America,0
+F1060.9 .W49,1958,nyu,42,North America,0
+F1060.A1 P7,1976,snc,43,North America,0
+F1064.5.M42 M42,1970,mbc,44,North America,0
+F1071 .K4,1956,xx,44,No place,0
+F1071 .S248a,1979,snc,40,North America,0
+F1071 .S248a,1979,snc,40,North America,0
+F1075.8 .C45,1972,abc,47,North America,0
+F1076.9 .A72,1975,abc,25,North America,0
+F1079.5.E43 B87,1973,abc,41,North America,0
+F1079.5.G56 K36,1979,utu,21,North America,0
+F1079.5.N36 N36 1975,1975,abc,44,North America,0
+F1086 .B13,1969,bcc,50,North America,0
+F1087 .H83,1966,onc,34,North America,0
+F1087.9 .B74a,1975,bcc,39,North America,0
+F1089.5.D86 A28 2000,2000,bcc,19,North America,0
+F1089.7.F48 S47 1990,1990,xxc,10,North America,0
+F1089.C3 L64 1983,1983,bcc,17,North America,0
+F1090 .C2,1907,abc,112,North America,0
+F1090 .L45 2001,2001,abc,18,North America,0
+F1090.5 .M68,1980,mau,20,North America,0
+F1122 .G599,1910,enk,109,Europe,1
+F1122 .H34,1894,nfc,125,North America,1
+F1123 .B65 1981,1981,nfc,33,North America,0
+F1123 .E38,1974,onc,40,North America,0
+F1123 .M36 2012,2012,onc,7,North America,0
+F1124.T47 P37 2009,2009,onc,10,North America,0
+F1201 .A58,1980,mx,20,North America,0
+F1201 .B65,1978,mx,22,North America,0
+F1201 .H5,1951,mx,68,North America,0
+F1201 .H5,1951,mx,68,North America,0
+F1201 .N49,1978,mx,41,North America,0
+F1201 .O73,1977,fr,42,Europe,0
+F1201 .R46,1939,mx,80,North America,0
+F1202 .C35,1997,mx,22,North America,0
+F1203 .A295,1945,mx,74,North America,1
+F1203 .D46,1968,gw,46,Europe,0
+F1204 .D33,1942,mx,77,North America,0
+F1204 .D56 1965,1965,mx,54,North America,0
+F1204.5 .A4,1900,xx,119,No place,0
+F1208 .A527 1986,1986,mx,14,North America,0
+F1208.5 .G73 2001,2001,mnu,18,North America,0
+F1209 .H65,1900,txu,114,North America,0
+F1209 .K55 1991,1991,mx,23,North America,0
+F1209 .M4866,1982,at,37,Australasia,0
+F1210 .E73,1997,mx,22,North America,0
+F1210 .I15,1926,mx,93,North America,0
+F1210 .P38 1990,1990,mx,24,North America,0
+F1210 .P495,2004,mx,15,North America,0
+F1210 .R38,1949,mx,65,North America,0
+F1213 .V49 1982,1982,mx,37,North America,0
+F1215 .B77,1935,ilu,79,North America,0
+F1215 .C4976 1998,1998,mx,21,North America,0
+F1215 .L27,1938,pau,81,North America,0
+F1215 .S28,1906,nyu,113,North America,1
+F1215 .T77,1899,gw,120,Europe,1
+F1215 .V46,1938,xx,76,No place,0
+F1216 .B4313 1967,1967,nyu,52,North America,0
+F1216 .H38,1960,gw,40,Europe,0
+F1216 .M387,1976,cau,43,North America,0
+F1219 .A594 2000,2000,enk,19,Europe,0
+F1219 .A84 1995,1995,mx,5,North America,0
+F1219 .B227,1877,xx,142,No place,1
+F1219 .B2293 1976,1976,nyu,43,North America,0
+F1219 .C775,1970,mx,49,North America,0
+F1219 .I45 1993,1993,mx,26,North America,0
+F1219 .M6248,1960,mx,59,North America,0
+F1219 .M627 no. 16,1968,mx,51,North America,0
+F1219 .M627 no. 17,1968,mx,51,North America,0
+F1219 .M748,1979,gw,40,Europe,0
+F1219 .S56 2001,2001,mx,18,North America,0
+F1219.1.G86 C47 2009,2009,mx,10,North America,0
+F1219.1.G93 U55,1979,mx,21,North America,0
+F1219.1.L35 T47 1981,1981,mx,32,North America,0
+F1219.1.M55 S76 2004,2004,oku,15,North America,0
+F1219.1.O11 B5,1978,nyu,35,North America,0
+F1219.1.T27 P53 1996,1995,mx,24,North America,0
+F1219.1.T27 T28 2000,2000,ncu,19,North America,0
+F1219.1.T5 G3 1927,1927,mx,92,North America,1
+F1219.1.T623 A57 1996,1996,mx,23,North America,0
+F1219.3.I5 N34 1988,1988,mx,31,North America,0
+F1219.3.R56 C65 2007,2007,cou,12,North America,0
+F1219.3.S57 M37 1997,1997,mx,22,North America,0
+F1219.56.C736 R67 2003,2003,mx,16,North America,0
+F1219.56.L48 R83 1989,1989,mx,30,North America,0
+F1219.56.L58 R67 1998,1998,ne,21,Europe,0
+F1219.73 .A96 2002,2002,enk,17,Europe,0
+F1219.73 .B37 1988,1988,nyu,31,North America,0
+F1219.73 .C6618 1988,1988,sp,12,Europe,0
+F1219.73 .E95 1999,1999,mx,20,North America,0
+F1219.M9233 G5,1953,mx,66,North America,0
+F1221.C57 R45 1995,1995,mx,24,North America,0
+F1221.L2 H47 2005,2005,mx,14,North America,0
+F1221.L2 V68 1980,1980,mx,20,North America,0
+F1221.M33 P37 2006,2006,mx,13,North America,0
+F1221.S43 D4,1970,azu,49,North America,0
+F1221.S43 G7,1959,flu,60,North America,0
+F1221.S43 G7,1959,flu,60,North America,0
+F1221.T25 B43 1976,1976,nmu,43,North America,0
+F1221.T56 T5818 1985,1985,mx,28,North America,0
+F1224 .G67 1988,1988,mx,25,North America,0
+F1224 .R5,1953,mx,60,North America,0
+F1225.A78 A68 1998,1998,mx,15,North America,0
+F1225.R6 P4,1971,mx,42,North America,0
+F1226 .H574 1976,1976,mx,37,North America,0
+F1226 .L66 1987,1987,mx,26,North America,0
+F1226 .R75,1937,mx,82,North America,1
+F1228 .B63 2006,2006,mx,13,North America,0
+F1229 .P27,1939,xx,74,No place,0
+F1229 .P27,1939,xx,74,No place,0
+F1229 .P83,1929,xx,90,No place,1
+F1230 .C94,1909,enk,104,Europe,0
+F1230 .C95 1986,1986,mx,27,North America,0
+F1230 .G39 1969,1969,nyu,44,North America,0
+F1230 .V53 2000,2000,mau,19,North America,0
+F1231 .B93,1936,mx,77,North America,0
+F1231 .G18,1867,mx,152,North America,1
+F1231 .H4 1990,1990,sp,29,Europe,0
+F1231.5 .M67 1996,1996,fr,23,Europe,0
+F1232 .C34 1986,1986,mx,14,North America,0
+F1232 .D629 1985,1985,mx,34,North America,0
+F1232 .L16,1843,mx,176,North America,1
+F1232 .M843,1927,mx,92,North America,1
+F1232 .M843,1927,mx,92,North America,1
+F1232 .M86,1884,mx,135,North America,1
+F1232.L89 A5,1963,mx,50,North America,0
+F1233 .H88 2008,2008,cou,11,North America,0
+F1233 .P425 2006,2006,mx,13,North America,0
+F1233 .V5,1862,mx,157,North America,0
+F1233.5.R4 A96 1980,1980,mx,20,North America,0
+F1234 .B814,1938,ilu,75,North America,0
+F1234 .C425 1973,1900,mx,119,North America,0
+F1234 .F47,1913,mx,106,North America,1
+F1234 .M14,1969,ctu,31,North America,0
+F1234 .M536,1900,mx,119,North America,1
+F1234 .R418 1994,1994,mx,6,North America,0
+F1234 .R686,1936,mx,83,North America,1
+F1234 .R737,1910,xx,109,No place,1
+F1234 .S1834 1997,1997,mx,22,North America,0
+F1234 .S1843,1976,mx,43,North America,0
+F1234 .V235 1988,1988,mx,25,North America,0
+F1234 .W68,1914,nyu,105,North America,1
+F1234.S174 L33 1957,1957,mx,56,North America,0
+F1235.5.L6 A75 1993,1993,mx,26,North America,0
+F1236 .A4817 1995,1995,mx,24,North America,0
+F1236 .M472 1986,1986,mx,27,North America,0
+F1236 .S46,1989,mx,30,North America,0
+F1246 .C73,1974,cau,45,North America,0
+F1246.2 .B36,2000,cau,19,North America,0
+F1246.3 .T66 1993,1993,mx,26,North America,0
+F1256 .H453 1998,1998,mx,21,North America,0
+F1256 .P64 1993,1993,mx,20,North America,0
+F1261 .C525 1991,1991,mx,28,North America,0
+F1276.P49 J56 1997,1997,mx,22,North America,0
+F1281 .G84 1987,1987,mx,26,North America,0
+F1281.S37 J38 1998,1998,mx,21,North America,0
+F1286 .M37 1990,1990,mx,23,North America,0
+F1291 .C38 1991,1991,mx,28,North America,0
+F1291 .E79 2009,2009,mx,10,North America,0
+F1294 .V57 2001,2001,mx,18,North America,0
+F1301 .M85 1986,1986,mx,27,North America,0
+F1301 .M856 1997,1997,mx,22,North America,0
+F1301 .M864 1998,1998,mx,21,North America,0
+F1306 .B27,1963,mx,56,North America,1
+F1311 .P69,1913,mx,106,North America,1
+F1313 .G84 2008,2008,mx,11,North America,0
+F1316 .C8,1986,mx,33,North America,0
+F1316 .G293 1996,1996,mx,23,North America,0
+F1321 .C8,1966,mx,53,North America,0
+F1321 .T27 t. 2,1935,mx,84,North America,1
+F1326 .F72 1956,1956,mx,57,North America,0
+F1333 .A45 1992,1992,mx,8,North America,0
+F1341 .D47 1991,1991,mx,22,North America,0
+F1341 .S56,1800,mx,219,North America,1
+F1346 .B45 1991,1991,mx,9,North America,0
+F1346 .I53,1997,mx,22,North America,0
+F1351 .S33 1950,1950,mx,63,North America,0
+F1366 .T68 1991,1991,mx,22,North America,0
+F1376 .F63,1990,nyu,29,North America,0
+F1376 .S7 1996,1996,mx,17,North America,0
+F1386.2 .M44 2006,2006,mx,13,North America,0
+F1386.23.A7 A25 1984,1984,mx,29,North America,0
+F1391 .L22R395 1996,1996,mx,23,North America,0
+F1391.A85 C5,1959,mx,54,North America,0
+F1391.C39 C48 1994,1994,mx,25,North America,0
+F1391.C62 J67 1999,1999,mx,20,North America,0
+F1391.C7 A77 1994,1994,mx,19,North America,0
+F1391.C8 A55,1958,mx,42,North America,0
+F1391.G9 R39 1986,1986,mx,33,North America,0
+F1391.M54 M494 1991,1991,mx,28,North America,0
+F1391.P33 S68 1994,1994,mx,25,North America,0
+F1391.P9 G56 1995,1995,mx,24,North America,0
+F1391.Q4 C65 1990,1990,mx,29,North America,0
+F1391.S19 S23 1992,1992,mx,27,North America,0
+F1391.S247 G37 1996,1996,mx,4,North America,0
+F1391.T6 N8,1916,mx,103,North America,0
+F1391.V3 L6 1992,1992,mx,27,North America,0
+F1391.V326 C6 1995,1995,mx,24,North America,0
+F1401 .I24,1924,gw,76,Europe,0
+F1401 .J69,1969,enk,44,Europe,0
+F1401 .L335,1974,cau,26,North America,0
+F1401 .L345,1965,txu,54,North America,0
+F1401 .L37,1991,ru,28,Europe,0
+F1401 .P153 no. 116,1951,mx,49,North America,0
+F1401 .P153 no. 158,1953,mx,47,North America,0
+F1401 .P153 no. 188,1956,mx,44,North America,0
+F1401 .P153 no. 212,1956,bl,57,South America,0
+F1401 .P153 no. 276,1961,ag,52,South America,0
+F1401 .P153 no. 310 Z8087.6 PQ8549.B3,1970,mx,30,North America,0
+F1401 .P153 no. 71,1943,mx,70,North America,1
+F1401 .P153 nu??m. 161,1953,mx,60,North America,0
+F1401 .P6,1959,ve,54,South America,0
+F1401 .P683,2003,cau,16,North America,0
+F1401 .R442,1940,sp,73,Europe,0
+F1401 .R447,1950,mx,69,North America,0
+F1401 .S71,1924,enk,95,Europe,0
+F1401 .T45 no. 9,1950,txu,69,North America,0
+F1401 .U65,1929,dcu,84,North America,0
+F1401 .U66,1943,dcu,76,North America,1
+F1402 .A153,1970,dcu,49,North America,0
+F1402 .A153,1948,dcu,52,North America,0
+F1402 .A153,1970,dcu,30,North America,0
+F1402.A4 S4,1900,dcu,119,North America,0
+F1403 .B955,1910,dcu,109,North America,0
+F1403.3 .I5,1938,dcu,81,North America,1
+F1403.3 .P5,1900,dcu,119,North America,1
+F1405.9 .I54 1945c,1945,xx,74,No place,0
+F1405.9 .S5 1991,1992,pl,21,Europe,0
+F1407 .B48 no. 106,1938,fr,81,Europe,1
+F1407 .B48 no. 151,1930,ph,89,Asia,1
+F1407 .B48 no. 160,1939,pe,80,South America,1
+F1407 .B48 no. 175,1927,cu,92,West Indies,1
+F1407 .B48 no. 180,1928,xx,91,No place,1
+F1407 .B48 no. 193,1936,cl,83,South America,1
+F1407 .B48 no. 80,1868,mx,151,North America,1
+F1407 .D29 1949a,1949,dcu,70,North America,0
+F1407 .W7,1942,ilu,77,North America,1
+F1408 .G225,1918,enk,101,Europe,1
+F1408 .I67,1937,xxu,82,North America,0
+F1408.3 .A27,1994,ck,19,South America,0
+F1408.3 .E53,1989,nmu,30,North America,0
+F1408.3 .K443 1984,1984,mau,35,North America,0
+F1408.3 .L67 1993,1993,ag,20,South America,0
+F1408.3 .L84 2012,2012,ck,1,South America,0
+F1409 .H25 1945,1945,nyu,68,North America,0
+F1410 .H52 1985,1985,sp,15,Europe,0
+F1410 .L375,1992,gw,27,Europe,0
+F1410 .O47 2012,2012,mnu,7,North America,0
+F1410 .P39,1970,ag,43,South America,0
+F1410 .P418,1963,pn,56,Central America,1
+F1410 .R887 2010,2010,sp,9,Europe,0
+F1411 .C2518 1988 vol. 12,1990,sp,23,Europe,0
+F1411 .M83,1952,sp,61,Europe,0
+F1412 .F534 1991,1991,sp,9,Europe,0
+F1412 .P385 1999,1999,sp,20,Europe,0
+F1412 .R74 1960,1961,ve,52,South America,0
+F1412 .T8,1943,pe,76,South America,1
+F1414 .L293 1999,1999,mx,20,North America,0
+F1414.2 .A68,1984,gw,35,Europe,0
+F1414.2 .C6212,2000,mx,19,North America,0
+F1414.2 .C62144,1992,mnu,27,North America,0
+F1414.2 .E536 1994,1994,cu,19,West Indies,0
+F1414.2 .L344,1960,pe,59,South America,0
+F1414.2 .M537 1990,1990,mau,29,North America,0
+F1414.2 .R55 2003,2003,cou,16,North America,0
+F1414.2 .S23,1978,pl,35,Europe,0
+F1414.G58 H46 1988,1988,ohu,12,North America,0
+F1415 .C6 1958ae,1961,xx,52,No place,0
+F1415 .E24 1991,1991,nyu,22,North America,0
+F1418 .B646 1985,1985,pau,34,North America,0
+F1418 .C2,1955,mau,58,North America,0
+F1418 .F75,1966,fr,53,Europe,0
+F1418 .I592,1941,nyu,78,North America,0
+F1418 .P2 no. 13,1934,dcu,85,North America,1
+F1418 .P2 no. 50,1945,dcu,74,North America,0
+F1418 .P2 no. 7A,1950,dcu,69,North America,0
+F1418 .P24,1948,xxu,65,North America,0
+F1418 .P67,1981,dcu,19,North America,0
+F1419.S63 A63 1993,1993,sp,26,Europe,0
+F1421 .A56,1974,cr,39,Central America,0
+F1428 .R6 1965,1965,xx,48,No place,0
+F1434 .S9,1934,xx,85,No place,0
+F1434 .S95 1955a,1960,xx,59,No place,0
+F1435 .G17 1972,1972,nyu,47,North America,0
+F1435 .U87,1991,gt,28,Central America,0
+F1435.1.C43 A73 1986,1986,txu,33,North America,0
+F1435.1.C492 A38 2003,2003,mx,16,North America,0
+F1435.1.P2 R889 2007,2007,mx,12,North America,0
+F1435.1.S55 H47 2011,2011,mx,8,North America,0
+F1435.3.A7 V8,1935,xx,84,No place,0
+F1435.3.M6 R63 1991,1991,mx,22,North America,0
+F1436 .F5,1946,es,73,Central America,1
+F1438 .D262,1823,xx,196,No place,0
+F1438 .L58 1984,1984,alu,35,North America,0
+F1438 .T63,1843,xx,176,No place,0
+F1439.5 .P35,1986,gt,33,Central America,0
+F1445 .S55 2001,2002,gt,17,Central America,0
+F1449.B7 A63 1978,1978,mx,35,North America,0
+F1449.B7 G393 1948,1948,gt,65,Central America,0
+F1449.B7 G89,1958,gt,61,Central America,0
+F1449.B7 G974 2009,2009,gt,10,Central America,0
+F1457.A1 S78 1987,1987,bh,26,Central America,0
+F1463 .M86,1940,xx,79,No place,0
+F1463 .P32,1916,dcu,103,North America,0
+"F1465 .G85 vol. 11, no. 3-4, 1976",1976,gt,37,Central America,0
+F1465 .R43 2002,2002,gt,17,Central America,0
+F1465.P8 S57 2013,2013,mx,0,North America,0
+F1466.5 .S23 2007,2007,mx,12,North America,0
+F1466.5 .Y3,1963,nju,37,North America,0
+F1476.A5 G6,1964,gt,55,Central America,0
+F1476.G9 A56 1993,1993,gt,20,Central America,0
+F1476.G9 G96,1932,gt,87,Central America,1
+F1482 .P47 2016,2016,mdu,3,North America,0
+F1482 .Z45 1992,1992,es,21,Central America,0
+F1483 .G21,1927,es,92,Central America,1
+F1486.3.H8 L5,1970,es,43,Central America,0
+F1488 .M67,1973,es,40,Central America,0
+F1488 .S48 1982,1982,dcu,31,North America,0
+F1488.3 .M67 1995,1995,ctu,24,North America,0
+F1503.8 .B37 1990,1990,ho,29,Central America,0
+F1504 .M39,1930,ho,89,Central America,1
+F1505.2.C3 F47 2005,2005,mtu,14,North America,0
+F1505.2.C3 K47 1997,1997,ilu,22,North America,0
+F1508.L65 A83,1976,ho,24,Central America,0
+F1516.D3 G665 1992,1992,ho,8,Central America,0
+F1526.3 .S67,1938,nq,81,Central America,1
+F1528 .I565 1986,1986,dcu,33,North America,0
+F1528 .W44 1986,1986,dcu,27,North America,0
+F1528.22.L56 K78 1999,1999,nyu,20,North America,0
+F1529.M9 F55,1967,nmu,52,North America,0
+F1529.M9 G26 1992,1992,gw,27,Europe,0
+F1529.S35 O37 1993,1993,cr,26,Central America,0
+F1536.M26 B33 1946,1946,nq,73,Central America,1
+F1541 .R49,1975,cr,44,Central America,0
+F1541 .R86,1986,cr,33,Central America,0
+F1541.5 .F47,1971,cr,48,Central America,0
+F1543 .I63,1894,dcu,125,North America,0
+F1546 .M845,1938,cr,81,Central America,0
+F1547.5.M6 J8,1915,cr,104,Central America,0
+F1548 .A454 1978,1978,cr,41,Central America,0
+F1548.B35 C67 1997,1997,cr,22,Central America,0
+F1561 .C66,1980,pn,39,Central America,0
+F1563 .G22,1925,be,94,Europe,0
+F1563.5 .R68,2010,enk,9,Europe,0
+F1564 .B863,1925,nyu,94,North America,0
+F1565.2.G8 S27 1978,1978,pn,35,Central America,0
+F1567 .A748 1991,1991,pn,22,Central America,0
+F1567.T68 O43 1984,1984,pn,29,Central America,0
+F1569.C2 E94,1976,mx,24,North America,0
+F1611 .F84,1936,gw,77,Europe,0
+F1611 .T7,1953,nyu,66,North America,0
+F1619 .G64,1948,ne,71,Europe,0
+F1622 .R6,1943,gw,76,Europe,1
+F1629.C45 C5 1998,1998,jm,21,West Indies,0
+F1631 .B4,1913,xx,106,No place,1
+F1636 .B55,1944,bm,75,Atlantic Ocean,0
+F1640.P67 M83 1991,1991,kyu,28,North America,0
+F1751 .T58,1913,cu,106,West Indies,1
+F1765.3 .T44 2009,2009,sp,10,Europe,0
+F1776 .C69,1972,nyu,28,North America,0
+F1776 .C86,1937,cu,82,West Indies,1
+F1776 .D45 1999,1999,ag,20,South America,0
+F1777 .Z35,1942,cu,77,West Indies,0
+F1779 .S54,1972,flu,28,North America,0
+F1783 .V253,1936,cu,83,West Indies,0
+F1783.M38 P53 1982,1982,flu,31,North America,0
+F1783.M38 P65,1956,cu,44,West Indies,0
+F1783.T67 C8 1995,1995,flu,24,North America,0
+F1786 .C613 1998,1998,sp,21,Europe,0
+F1786 .F16,1897,xx,122,No place,1
+F1787 .C972 2005,2005,enk,14,Europe,0
+F1787 .M3,1945,cu,74,West Indies,0
+F1787 .M52,1923,cu,90,West Indies,0
+F1787.5 .F74 1987,1987,fr,13,Europe,0
+F1788 .A742 1964,1964,cu,50,West Indies,0
+F1788 .D45,1962,fr,57,Europe,0
+F1788 .E54,1996,sp,23,Europe,0
+F1788 .G68,1970,nyu,49,North America,0
+F1788 .M3,1960,ru,59,Europe,1
+F1788 .V36,1963,ru,56,Europe,0
+F1788.22.C3 C59 2003,2003,ctu,16,North America,0
+F1788.22.C3 G8,1971,sp,29,Europe,0
+F1788.22.C3 L57 1994,1994,cou,25,North America,0
+F1788.22.C3 R45 2008,2008,enk,5,Europe,0
+F1788.22.E86 A3 2009,2009,cu,10,West Indies,0
+F1789.A45 C5613 1987,1987,cu,13,West Indies,0
+F1799.H3 B2,1925,xx,94,No place,1
+F1799.H3 D574,1945,cu,74,West Indies,0
+F1799.H3 R82,1959,cu,60,West Indies,0
+F1839.C36 M86 2011,2011,cu,8,West Indies,0
+F1849.B17 R63 1984,1984,cu,16,West Indies,0
+F1852 .P76 1978,1978,cu,22,West Indies,0
+F1864 .C82,1939,jm,80,West Indies,0
+F1874 .S65 2007,2007,jm,12,West Indies,0
+F1881 .B87,1968,enk,32,Europe,0
+F1886 .B75,1948,enk,66,Europe,0
+F1896.A1 H4 1953,1953,xx,60,No place,0
+F1909 .S26 2010,2010,ne,9,Europe,0
+F1915 .P39,1956,sp,63,Europe,0
+F1916 H35 subser.,1900,ht,119,West Indies,0
+F1926 .M19,1909,ht,110,West Indies,1
+F1926.M46 L3,1944,ht,75,West Indies,0
+F1927 .V47,1939,ht,75,West Indies,0
+F1928.2 .G57 2004,2004,nyu,15,North America,0
+F1931 .D88,1934,nyu,85,North America,0
+F1931 .M52,1920,cu,99,West Indies,1
+F1934 .H75 1964,1964,dr,50,West Indies,0
+F1934 .L89 1988,1988,sp,31,Europe,0
+F1935 .M6,1953,ag,61,South America,0
+F1938 .F47 1994,1994,dr,19,West Indies,0
+F1938 .P36 1996,1996,dr,23,West Indies,0
+F1938.4 .C375 2009,2009,dr,10,West Indies,0
+F1938.4 .M69 1999,1999,mx,15,North America,0
+F1938.4.S32 R62 1982,1982,dr,18,West Indies,0
+F1938.5 .R28 2007,2007,dr,12,West Indies,0
+F1938.5.T687 R68 1988,1988,dr,25,West Indies,0
+F1938.55 .S55,1976,sw,43,Europe,0
+F1939.S4 O35 1979,1979,dr,35,West Indies,0
+F1959 .F633,2001,nyu,18,North America,0
+F1959 .F76,1996,nju,23,North America,0
+F1960 .R43,1991,pr,28,West Indies,0
+F1973.B6 G8,1965,xx,54,No place,1
+F1975.M67 A3 2015,2015,pr,4,West Indies,0
+F1976.3.M86 A35 1982,1982,pr,18,West Indies,0
+F1981.S18 V55,2005,pr,14,West Indies,0
+F1981.S2 S285,2005,pr,14,West Indies,0
+F2038 .H3,1968,gw,51,Europe,0
+F2041 .B433 1998,1998,bb,6,West Indies,0
+F2041 .L73 1998,1998,enk,21,Europe,0
+F2041 .W53 1995,1995,bb,24,West Indies,0
+F2049 .M35 2012,2012,ne,1,Europe,0
+F2056 .E48 1978,1978,bb,22,West Indies,0
+F2056.2 .D54 1986,1986,xx,33,No place,0
+F2066 .P37 1980,1980,gp,39,West Indies,0
+F2066 .S62a,1964,gp,50,West Indies,0
+F2134 .N4,1957,jm,62,West Indies,0
+F2136 .U85 1936,1936,dcu,83,North America,0
+F2151 .U5,1957,dcu,62,North America,0
+F2151.A36 C66 2002,2002,fr,17,Europe,0
+F2161 .N29,1935,it,84,Europe,1
+F2161.M83 U74 1983,1983,enk,31,Europe,0
+F2171 .A4,1995,flu,24,North America,0
+F2171 .B8 1963,1963,pl,51,Europe,0
+F2171 .C2533,1947,xx,72,No place,1
+F2175 .C597,1952,ag,67,South America,1
+F2178.U6 M87 1990,1990,nyu,29,North America,0
+F2183 .C78 2011,2011,quc,8,North America,0
+F2183 .W33,1998,mdu,21,North America,0
+F2208 .C55,1904,dk,115,Europe,0
+F2208 .G94,1967,nyu,33,North America,0
+F2208.5 .G46 1986,1986,ilu,33,North America,0
+F2211 .H68a,1985,mau,29,North America,0
+F2212 .C645,2001,ec,18,South America,0
+F2212 .I52 t. 26,1984,bo,30,South America,0
+F2213 .S86,1828,fr,186,Europe,0
+F2216 .H92,1833,stk,186,Europe,1
+F2217 .D45 1989,1989,ne,30,Europe,0
+F2221 .G84 1973,1973,sp,46,Europe,0
+F2221 .U428,1806,enk,208,Europe,0
+F2223 .B77,1885,fr,134,Europe,1
+F2223 .R95,1933,xx,81,No place,0
+F2223 .S36,1943,gw,76,Europe,1
+F2223 .W43 1936,1936,gw,83,Europe,0
+F2224 .F5,1962,miu,57,North America,0
+F2224 .S68,1977,nyu,37,North America,0
+F2224 .S68,1977,nyu,37,North America,0
+F2229 .E535 1999,1999,ag,15,South America,0
+F2230 .N8,1918,sw,101,Europe,0
+F2230 .R34 1980,1980,sp,34,Europe,0
+F2230.1.D78 V53 1991,1991,ck,9,South America,0
+F2230.1.F2 F43 1994,1994,gw,25,Europe,0
+F2230.1.I58 L37 2006,2006,pe,13,South America,0
+F2230.1.R3 P3,1946,bo,73,South America,1
+F2230.1.T3 M88 2013,2013,bo,6,South America,0
+F2230.2.A9 R56 2005,2005,bo,14,South America,0
+F2235.3 .B87,1968,ve,32,South America,0
+F2235.3 .H4,1944,ck,70,South America,0
+F2235.3 .J76 1983,1984,mx,16,North America,0
+F2235.3 .P4848,1972,xx,42,No place,0
+F2235.4 .C73 1950ae,1953,xx,66,No place,1
+F2235.4 .H34,1943,ag,76,South America,1
+F2235.4 .M32,1957,ag,62,South America,0
+F2237 .T46 1969,1969,nyu,50,North America,0
+F2251 .A16,1902,ck,112,South America,0
+F2251 .C292,1998,ck,21,South America,0
+F2251 .M35,1996,ck,23,South America,0
+F2251 .R464,1980,ck,39,South America,0
+F2253 .J37,1977,ck,37,South America,0
+F2254 .T45,1934,xx,85,No place,1
+F2255 .A3,1930,xx,89,No place,1
+F2255 .B37 1999,1999,ck,20,South America,0
+F2258 .F7,1952,ck,67,South America,0
+F2260 .B48 1982,1982,ck,37,South America,0
+F2260 .M56 1997,1997,ck,22,South America,0
+F2269.1.S27 H47 1985,1985,ck,15,South America,0
+F2270.1.M43 S3418 2004,2004,nmu,15,North America,0
+F2270.1.P65 C46 1977,1977,ck,42,South America,0
+F2270.2.G6 I55,1964,xx,55,No place,0
+F2271 .A5,1987,ck,13,South America,0
+F2271 .G27,1938,ck,81,South America,1
+F2271 .H62,1964,ck,36,South America,0
+F2271 .M662 1980,1980,ck,20,South America,0
+F2271 .R42 1989,1989,ck,11,South America,0
+F2272 .M65,1946,ck,73,South America,1
+F2272.5 .H29 1990,1991,enk,9,Europe,0
+F2274 .N247,1933,ck,86,South America,1
+F2276 .M9 1982,1982,ck,32,South America,0
+F2276.5 .M29 1999,1999,ck,15,South America,0
+F2276.L72 S67,1958,xx,56,No place,0
+F2277.G24 V37 1992,1992,ck,22,South America,0
+F2278 .L6172 1985,1985,ck,29,South America,0
+F2278 .L622,1975,xx,25,No place,0
+F2279 .C634,1988,ck,31,South America,0
+F2279 .M66 1985,1985,ck,29,South America,0
+F2279 .P76 1996,1996,dcu,18,North America,0
+F2279 .S28 1990,1990,ck,24,South America,0
+F2279 .V355 1993,1993,ck,7,South America,0
+F2281.A4 D53 1989,1989,ck,25,South America,0
+F2281.B7 E17 2009,2009,ec,10,South America,0
+F2281.B7 V484 1988,1988,ck,26,South America,0
+F2281.B8 C65 1987,1987,ck,27,South America,0
+F2281.C25 A723 2004,2004,ck,15,South America,0
+F2281.P3 C55 1999,1999,ck,20,South America,0
+F2281.V3 N38 1996,1996,ck,23,South America,0
+F2291.B3 M4,1953,ck,66,South America,1
+F2291.C3 D57 1994,1994,ck,20,South America,0
+F2291.C3 R6813 1986,1986,ck,33,South America,0
+F2291.O2 L63 2006,2006,ck,13,South America,0
+F2301 .A15,1912,ve,107,South America,1
+F2301 .A15,1912,ve,107,South America,0
+F2301 .A15,1912,ve,107,South America,0
+F2301 .B6,1953,ve,61,South America,0
+F2301 .V48,1949,dcu,65,North America,0
+F2304 .E52,1973,ve,27,South America,0
+F2309 .G86,1918,ve,101,South America,0
+F2310 .V55 1999,1999,ve,20,South America,0
+F2311 .P814 1970,1970,nyu,49,North America,0
+F2313 .A52,1940,nyu,79,North America,0
+F2313 .B93,1922,gw,97,Europe,1
+F2313 .S23 1953,1953,xx,66,No place,0
+F2315 .E55 1988,1988,quc,26,North America,0
+F2319.2.Y8 R8,1978,ve,41,South America,0
+F2319.3.G6 V34 1982,1982,ve,37,South America,0
+F2320 .C297,1977,ve,23,South America,0
+F2321 .B744 1985,1985,ve,29,South America,0
+F2321 .L53 1992,1992,ve,22,South America,0
+F2321 .V4,1962,ve,52,South America,0
+F2321.3.G7 S27 1997,1997,ve,17,South America,0
+F2322 .B37,1960,sp,54,Europe,0
+F2323 .M62,1929,ve,90,South America,0
+F2323 .M625,1810,enk,204,Europe,0
+F2324.B636 P74 1982,1982,ve,32,South America,0
+F2325 .G993,1876,ve,143,South America,0
+F2326 .G63 1989,1989,ve,11,South America,0
+F2326 .G66 2004,2004,ve,7,South America,0
+F2326 .M36 1987,1987,ve,32,South America,0
+F2326.B4 R53 1982,1982,ve,18,South America,0
+F2326.C23 V5,1969,ve,31,South America,0
+F2329 .H44 2010,2010,ve,3,South America,0
+F2329 .M42 2007,2007,ck,12,South America,0
+F2331.L3 L26 1994,1994,ve,25,South America,0
+F2331.T2 R64,1964,ve,50,South America,0
+F2341.C25 P6,1966,ve,53,South America,0
+F2341.C286 D67 1995,1995,ve,19,South America,0
+F2341.L25 L3 1990,1990,ve,24,South America,0
+F2341.M5 P37 1988,1988,ve,26,South America,0
+F2365 .W45,1938,gy,81,South America,0
+F2368 .G75,1954,enk,65,Europe,1
+F2384 .J3 1994,1994,enk,25,Europe,0
+F2401 .S97,1887,sr,132,South America,1
+F2429.P3 V75 2004,2004,sr,15,South America,0
+F2501 .A68,1993,bl,26,South America,0
+F2501 .B818,1919,bl,100,South America,1
+F2501 .B824,1959,bl,60,South America,0
+F2501 .C195,1994,bl,25,South America,0
+F2501 .C293,1994,bl,25,South America,0
+F2501 .I88,1992,bl,27,South America,0
+F2501 .I88,1992,bl,27,South America,0
+F2501 .N66,1969,bl,45,South America,0
+F2501 .N66,1969,bl,50,South America,0
+F2501 .R49,1939,bl,80,South America,0
+F2501 .R495,1981,bl,33,South America,0
+F2501 .T45,1975,bl,44,South America,0
+F2503.5 .M85 2011,2011,bl,8,South America,0
+F2504 .O34,1972,xx,47,No place,0
+F2505 .A45 1968,1968,bl,46,South America,0
+F2508 .A284,1910,gw,109,Europe,0
+F2508 .W78 1929,1929,mau,90,North America,1
+F2509 .F49,1930,bl,89,South America,1
+F2509 .P583,1971,bl,29,South America,0
+F2509.5 .G84,1991,bl,28,South America,0
+F2509.5 .R68,1990,enk,29,Europe,0
+F2510 .C667,2008,bl,11,South America,0
+F2510 .V35 1999,1999,bl,20,South America,0
+F2511 .B45 1994,1994,bl,25,South America,0
+F2513 .A9516,1961,bl,58,South America,0
+F2515 .D3,1925,xx,94,No place,1
+F2515 .D38,1935,xx,79,No place,0
+F2515 .S82,1926,gw,93,Europe,0
+F2516 .C58,1956,bl,63,South America,0
+F2519 .M38 1969,1969,gw,45,Europe,0
+F2519.1.M4 H3,1968,xx,46,No place,0
+F2519.1.M4 L413,1974,cau,45,North America,0
+F2519.3.A7 P5,1955,bl,64,South America,0
+F2519.3.G6 J86,1973,dk,46,Europe,0
+F2519.3.N35 C38 1989,1989,bl,25,South America,0
+F2520 .I516 1999,1999,bl,20,South America,0
+F2520.1.A4 G5,1971,it,48,Europe,0
+F2520.1.Y3 B44 1985,1985,ve,34,South America,0
+F2521 .R468,1998,bl,21,South America,0
+F2523.9 .V37,1978,xx,36,No place,0
+F2528 .L443,1938,po,81,Europe,0
+F2534 .A7,1968,cau,51,North America,0
+F2534.C37 G6,1966,bl,53,South America,0
+F2535 .L39 1988,1988,bl,26,South America,0
+F2536 .B8 1973,1973,bl,46,South America,0
+F2536 .C17 1989,1989,bl,30,South America,0
+F2536 .C779 2003,2003,bl,16,South America,0
+F2536 .M16,1957,bl,43,South America,0
+F2536 .M2652 1958,1958,bl,61,South America,0
+F2536 .P25 1983,1983,bl,36,South America,0
+F2536.G85 M4 1987,1987,bl,32,South America,0
+F2536.M254 R68 1979,1979,bl,40,South America,0
+F2536.V2816 F54 1978,1978,bl,29,South America,0
+F2537 .B195,1942,bl,77,South America,0
+F2537 .B195,1942,bl,77,South America,0
+F2537 .B195,1942,bl,77,South America,0
+F2537 .B233,1931,bl,88,South America,1
+F2537 .B286,1941,bl,78,South America,1
+F2537 .C374 vol. 2,1980,bl,39,South America,0
+F2537 .C46 1992,1992,bl,27,South America,0
+F2537 .K85 1988,1988,bl,12,South America,0
+F2537.B24 R846 1999,1999,bl,20,South America,0
+F2537.L96 L95,1973,bl,27,South America,0
+F2538.2 .C64,1968,xx,32,No place,0
+F2538.2 .F418,1966,bl,53,South America,0
+F2538.2 .F55,1978,enk,41,Europe,0
+F2538.2 .V36 1980,1980,bl,20,South America,0
+F2538.22.C3 A3,1966,bl,34,South America,0
+F2538.25 .A77 1985,1985,bl,29,South America,0
+F2538.3 .H68 1995,1995,bl,19,South America,0
+F2538.3 .I57,1998,bl,21,South America,0
+F2538.3 .P46,1997,bl,22,South America,0
+F2540 .C48,1903,be,116,Europe,0
+F2541.G73 N48 1982,1982,xx,32,No place,0
+F2546 .P88,1941,ag,78,South America,1
+F2546 .U67,1923,nyu,96,North America,1
+F2551 .D36 1998,1998,bl,16,South America,0
+F2551 .I59,1901,bl,118,South America,1
+F2554 .A34,1845,bl,174,South America,1
+F2554.A82 B76,1894,nyu,125,North America,1
+F2556 .I83,1955,bl,59,South America,0
+F2561 .P35,1980,bl,39,South America,0
+F2566 .P35112 1995,1995,bl,24,South America,0
+F2571 .D66,1969,bl,50,South America,0
+F2571 .L46 2006,2006,bl,13,South America,0
+F2571 .L49 1987,1987,bl,32,South America,0
+F2576 .I63a,1900,bl,119,South America,0
+F2576 .I63a,1900,bl,119,South America,0
+F2581 .B87 1978,1978,bl,41,South America,0
+F2581 .C46 1989,1989,bl,30,South America,0
+F2583.L36 A56 1998,1998,bl,21,South America,0
+F2586 .C92,1903,fr,116,Europe,0
+F2586 .P39 1971,1971,bl,29,South America,0
+F2586 .P67 2002,2002,bl,17,South America,0
+F2591 .M33,1977,bl,42,South America,0
+F2591 .P5,1950,bl,69,South America,0
+F2596 .R58,1875,enk,144,Europe,1
+F2596 .S59,1904,bl,115,South America,1
+F2601 .F475 1996,1996,bl,23,South America,0
+F2601.C42 F66 1992,1992,bl,27,South America,0
+F2606 .R43,1974,xx,26,No place,0
+F2609 .R42,2007,bl,12,South America,0
+F2616 .I59,1903,bl,116,South America,1
+F2621 .C675,1974,bl,26,South America,0
+F2621 .M47,2002,bl,17,South America,0
+F2621 .P6625 2008,2008,bl,11,South America,0
+F2621 .S546 1978,1980,bl,39,South America,0
+F2624 .G85 1987,1987,bo,27,South America,0
+F2626 .M455 1997,1997,bl,22,South America,0
+F2626 .S58 1998,1998,bl,21,South America,0
+F2631 .I59,1895,bl,119,South America,0
+F2631 .L86 1938,1938,bl,81,South America,1
+F2631 .M86 1997,1997,bl,17,South America,0
+F2631 .T46 2005,2005,bl,14,South America,0
+F2636 .I59,1913,xx,106,No place,0
+F2646.4.P5 B3 1991,1991,bl,28,South America,0
+F2651.C78 S47 1983,1983,bl,36,South America,0
+F2651.C78 S55 1996,1996,bl,23,South America,0
+F2651.G75 R35 2011,2011,bl,8,South America,0
+F2651.M3 D83 2009,2009,bl,10,South America,0
+F2651.O4 F47 1997,1997,bl,22,South America,0
+F2651.P5 C3,1923,bl,96,South America,0
+F2651.P8 C66 1991,1991,bl,23,South America,0
+F2651.S143 G6,1939,bl,80,South America,1
+F2651.S1657 M63 1982,1982,bl,32,South America,0
+F2651.S2 R4,1934,bl,85,South America,0
+F2651.S29 I83 1985,1985,bl,29,South America,0
+F2651.S29 S9,1960,bl,40,South America,0
+F2659.A7 C43,1991,bl,28,South America,0
+F2659.A9 P78 1996,1996,au,23,Europe,0
+F2659.G3 D3,1924,xx,95,No place,1
+F2659.G3 I425 1982,1982,au,32,Europe,0
+F2659.G3 M47,1937,xx,82,No place,1
+F2659.G3 R4,1943,gw,76,Europe,1
+F2659.N4 B48 2000,2000,gau,19,North America,0
+F2665 .G34 no. 10,1970,py,49,South America,0
+F2665 .S92,1908,py,111,South America,1
+F2675 .C66 2006,2006,py,13,South America,0
+F2687 .C94 1866,1866,ag,142,South America,0
+F2687 .F732,1956,bl,63,South America,1
+F2687 .R26 2000,2000,ag,19,South America,0
+F2687 .U76,1921,ag,98,South America,1
+F2688.5 .E52,1975,py,44,South America,0
+F2688.5 .V415 1991,1991,py,9,South America,0
+F2695.C7 F47 2008,2008,py,11,South America,0
+F2701 .G26,2000,uy,19,South America,0
+F2701 .M76,1900,uy,119,South America,0
+F2701 .P67,1994,uy,25,South America,0
+F2709 .M8,1939,uy,75,South America,0
+F2713 .G58,1935,uy,84,South America,0
+F2721 .U85,1910,uy,109,South America,1
+F2725 .F47,1973,xx,41,No place,0
+F2725.A7 A77,1978,uy,41,South America,0
+F2726 .A768,1889,ag,130,South America,1
+F2726 .B55,1905,uy,114,South America,1
+F2726 .G65,1964,uy,55,South America,0
+F2726 .S933,1881,uy,138,South America,1
+F2726.H58 F7,1952,uy,67,South America,1
+F2728 .H45 1923,1923,xx,96,No place,1
+F2799.B2 E9,1912,uy,107,South America,1
+F2801 .A58,1836,ag,183,South America,0
+F2801 .A653,1971,xx,48,No place,0
+F2801 .A744,1960,xx,54,No place,0
+F2801 .A78,1927,ag,92,South America,0
+F2801 .B96,1922,ag,97,South America,0
+F2801 .E55,1995,ag,24,South America,0
+F2801 .I5,1966,ag,48,South America,0
+F2801 .M85,1998,ag,21,South America,0
+F2801 .R46,1886,ag,133,South America,1
+F2801 .S4,1938,ag,81,South America,0
+F2801 .T6,1967,ag,52,South America,0
+F2803 .T67 no. 4,1947,ag,72,South America,1
+F2804.5 .A63,1949,ag,70,South America,1
+F2804.5 .A63,1957,ag,62,South America,1
+F2804.5 .A63,1950,ag,69,South America,1
+F2804.5 .A63,1952,ag,67,South America,1
+F2810 .F4,1958,ag,61,South America,0
+F2810 .S48,1949,ag,70,South America,1
+F2815 .C63,1911,enk,103,Europe,0
+F2815 .D4 1947,1947,nyu,72,North America,0
+F2815 .R95 1947,1947,sp,67,Europe,0
+F2816 .C58,1970,ag,49,South America,0
+F2816 .H45,1953,be,61,Europe,0
+F2821 .C59 1999,2001,ag,18,South America,0
+F2821.1.H9 O77 1997,1997,ag,22,South America,0
+F2821.1.J9 B45 1995,1995,ag,24,South America,0
+F2831 .G189,1943,ag,76,South America,1
+F2841 .O48,1922,ag,97,South America,1
+F2843.G35 Y3,1944,ag,75,South America,1
+F2845 .C77,1960,ag,40,South America,0
+F2845 .M725,1900,xx,119,No place,1
+F2845.B378 D6 1982,1982,ag,32,South America,0
+F2846 .E45 1998,1999,ag,20,South America,0
+F2846 .I682,1944,ag,75,South America,1
+F2846 .M68,1911,xx,108,No place,1
+F2846 .R7155,1942,ag,77,South America,1
+F2846 .R7156 2009,2009,ag,10,South America,0
+F2846 .S197,1945,uy,74,South America,1
+F2846 .S248485 1988,1988,ag,26,South America,0
+F2846 .S252156,1954,ag,65,South America,0
+F2846.3.R7 T47,1972,ag,42,South America,0
+F2846.F79 T47 2000,2000,ag,4,South America,0
+F2846.P44 C5,1962,xx,38,No place,0
+F2848 .M295,1976,ag,24,South America,0
+F2848 .T618 1973,1973,ag,46,South America,1
+F2849 .E82,1974,xx,45,No place,0
+F2849 .M65,1964,ag,55,South America,0
+F2849 .P8 1968,1968,ag,46,South America,0
+F2849.2 .C54 1990,1990,ag,29,South America,0
+F2849.2 .C6,1966,ag,53,South America,0
+F2849.2 .H32 1986,1986,ag,28,South America,0
+F2849.2 .H818,1978,ag,26,South America,0
+F2849.2 .J8 1983,1983,pau,36,North America,0
+F2849.2 .T87 1996,1996,ag,23,South America,0
+F2849.22.G85 S8 2008,2008,cu,11,West Indies,0
+F2849.3 .L83,2004,ag,15,South America,0
+F2849.P48 E85 1996,1996,ag,23,South America,0
+F2851 .C56,1906,cl,113,South America,1
+F2851 .E7,1968,cl,32,South America,0
+F2886 .P74 1999,1999,ag,20,South America,0
+F2891 .M28 2009,2009,ag,10,South America,0
+F2896 .R43,1966,ag,38,South America,0
+F2951 .H57,1975,xx,25,No place,0
+F2958 .P47 1999,1999,ag,20,South America,0
+F2981 .L8,1948,xx,71,No place,1
+F2991 .C88 no. 1,1969,ag,45,South America,0
+F2991 .R68 1988,1988,ag,12,South America,0
+F3001 .B923,1907,ag,107,South America,0
+F3001 .C28,1926,ag,93,South America,1
+F3001 .M9,1946,ag,73,South America,0
+F3001 .Z24,1936,ag,83,South America,1
+F3011.M63 S56 1985,1985,ag,29,South America,0
+F3011.Q6 C6,1955,ag,64,South America,0
+F3011.S19 M3,1970,ag,44,South America,0
+F3011.S49 M57 1983,1983,cl,36,South America,0
+F3011.T89 F47 1993,1993,sp,21,Europe,0
+F3021.J5 C625 1975,1985,ag,34,South America,0
+F3021.U5 V37 1982,1982,gw,32,Europe,0
+F3031 .P475 1999,1999,no,20,Europe,0
+F3051 .C69,1861,cl,158,South America,1
+F3051 .N83,1972,cl,47,South America,0
+F3058 .U36 1943,1943,dcu,76,North America,1
+F3059 .M13,1916,dcu,103,North America,1
+F3060 .L36,1967,mx,33,North America,0
+F3060 .R664 1995,1995,cl,5,South America,0
+F3063 .P35,1943,dcu,76,North America,0
+F3063 .S33 1990,1990,cl,10,South America,0
+F3069 .C59 1971,1971,cl,29,South America,0
+F3069.3.G6 I54 1999,1999,cl,20,South America,0
+F3091.T6 A4,1943,cl,76,South America,1
+F3094 .C69,1912,cl,107,South America,1
+F3094 .C69 vol. 25,1913,cl,106,South America,1
+F3094.O33 P47 1980,1980,ve,20,South America,0
+F3094.W3 L6,1930,xx,84,No place,0
+F3095 .B25,1940,xx,74,No place,0
+F3097 .H56,1978,bo,22,South America,0
+F3097.3 .M23,1919,xx,100,No place,1
+F3097.3 .P53,1919,cl,100,South America,0
+F3098 .B2615 1991,1991,cl,9,South America,0
+F3099 .B43 1984,1984,cl,16,South America,0
+F3100 .A38 1993,1993,cl,7,South America,0
+F3100 .C445,1974,it,40,Europe,0
+F3100 .M55,1975,it,39,Europe,0
+F3100 .P83,1974,gw,26,Europe,0
+F3100 .R33 1999,1999,cl,15,South America,0
+F3100.A462 S24,1974,ag,45,South America,0
+F3101.3 .C49 2011,2011,cl,8,South America,0
+F3126 .F29,1968,nyu,51,North America,0
+F3126 .R96 1993,1993,cl,21,South America,0
+F3139 .A514 2011,2011,bo,8,South America,0
+F3146 .T36,1972,cl,28,South America,0
+F3171 .V64 1974,1974,cl,26,South America,0
+F3246 .T81,1861,cl,158,South America,1
+F3271.23.A2 P35 1995,1995,cl,24,South America,0
+F3281.A6 P5,1880,pe,139,South America,1
+F3285.A7 M3,1941,cl,78,South America,0
+F3301 .B57,1906,bo,113,South America,0
+F3319.1.T55 B39,1959,enk,41,Europe,0
+F3320 .P67 1938,1938,bo,81,South America,1
+F3320.1.P56 K66 2006,2006,bo,13,South America,0
+F3320.2.C4 N33 2001,2001,bo,13,South America,0
+F3321 .A48,1979,bo,35,South America,0
+F3321 .A7,1918,bo,101,South America,1
+F3323 .F84 1996,1996,ve,18,South America,0
+F3325 .O8,1944,cl,75,South America,1
+F3325.T44 M46 1993,1993,bo,7,South America,0
+F3326 .S68 1994,1994,bo,6,South America,0
+F3326.P3 G89 1986,1986,bo,14,South America,0
+F3327 .D39,1991,bo,23,South America,0
+F3327 .E78 1996,1996,bo,23,South America,0
+F3327 .T685 2010,2010,bo,9,South America,0
+F3341.O6 V348 2007,2007,bo,12,South America,0
+F3351.T3 B56 1976,1976,bo,38,South America,0
+F3359.A1 D57 2007,2007,bo,12,South America,0
+F3401 .C35,1950,pe,69,South America,0
+F3401 .R453,1936,pe,83,South America,1
+F3402 .R42,1974,pe,40,South America,0
+F3405 .G25,1990,dcu,29,North America,0
+F3408 .R152,1940,pe,79,South America,1
+F3410.4 .C74 2005,2005,nyu,14,North America,0
+F3423 .P48,1903,pe,116,South America,1
+F3424 .W35,1978,nyu,22,North America,0
+F3429 .A554,1983,pe,36,South America,0
+F3429 .A77 no. 5,1959,pe,55,South America,0
+F3429 .C55,1971,ne,43,Europe,0
+F3429 .C65 1998,2001,pe,18,South America,0
+F3429 .C67 2001,2001,it,18,Europe,0
+F3429 .N86 1986,1986,cu,33,West Indies,0
+F3429.1.L8 B6,1965,pe,49,South America,0
+F3429.1.M35 S53 2000,2000,pe,19,South America,0
+F3429.1.P25 P373 2009,2009,pe,10,South America,0
+F3429.1.T8 Z48 1994,1994,pe,20,South America,0
+F3429.3.M4 C37 1981,1981,xx,33,No place,0
+F3430.1.M6 C84 1980,1980,sp,39,Europe,0
+F3431 .H33 1997,1997,pe,17,South America,0
+F3431 .V265 1984,1900,pe,119,South America,0
+F3444 .G22,1912,ck,102,South America,0
+F3446 .M64,1828,enk,186,Europe,0
+F3447 .M29,1919,pe,100,South America,1
+F3447 .M29 1942,1942,pe,72,South America,0
+F3448 .C37,1971,xx,43,No place,0
+F3448 .M216 1953,1953,ag,66,South America,0
+F3448 .S276 1984,1984,pe,30,South America,0
+F3448.2 .B334,1979,pe,21,South America,0
+F3448.2 .Q44,1979,pe,40,South America,0
+F3448.6 .G37 2011,2011,pe,8,South America,0
+F3451.B75 J9,1910,ec,109,South America,0
+F3451.B75 R33 1995,1995,pe,5,South America,0
+F3601 .L733,1935,pe,84,South America,0
+F3611.A7 M26,1936,pe,83,South America,1
+F3611.E46 M37,1973,pe,46,South America,1
+F3611.H79 R66 2006,2006,pe,13,South America,0
+F3611.T8 A7,1935,pe,84,South America,1
+F3708.5 .L47 1986,1986,ilu,33,North America,0
+F3721.1.Q54 P67,1975,ec,25,South America,0
+F3722 .K54,1983,ec,36,South America,0
+F3731 .U94,1937,ec,82,South America,1
+F3732.9 .B87 1985,1985,ec,34,South America,0
+F3733 .J35 Copy 2,1954,ec,65,South America,1
+F3735 .C46,1947,ec,67,South America,0
+F3738.4 .D87 1996,1996,ec,23,South America,0
+F3738.4.M34 S23 2000,2000,ec,14,South America,0
+F3741.L6 P3,1940,ec,79,South America,1
+F3741.P32 C88 1996,1996,ec,23,South America,0
+F3791.C9 V3,1957,ec,62,South America,1
+F3791.G9 G35 1928,1928,ec,91,South America,0
