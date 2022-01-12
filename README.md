@@ -2,7 +2,7 @@
 Training and testing classification-based association rule mining for predicting brittle paper in library collections.
 
 ## Summary of CBA Models
-**CBA**
+***CBA***
 ```
 Training:
          Accuracy : 0.877
@@ -22,14 +22,14 @@ Balanced Accuracy : 0.7593
 ```
 Training:
          Accuracy : 0.865
-**Balanced Accuracy : 0.804**
+Balanced Accuracy : 0.804
       Sensitivity : 0.719        
       Specificity : 0.889
    Pos Pred Value : 0.516
 
 Testing:
          Accuracy : 0.85
-**Balanced Accuracy : 0.7937**
+Balanced Accuracy : 0.7937
       Sensitivity : 0.7174        
       Specificity : 0.4583
    Pos Pred Value : 0.5091
@@ -37,7 +37,7 @@ Testing:
 
 ## Full Statistics of CBA Models
 ### Classification Based on Assocation Rules Algorithm (CBA)
-**Training Data Confusion Matrix and Statistics**  
+***Training Data Confusion Matrix and Statistics***  
 
 ```
             Reference
@@ -66,7 +66,7 @@ Prediction   Brittle NotBrittle
        'Positive' Class : Brittle 
 ```
 
-**Testing Data Confusion Matrix and Statistics** 
+***Testing Data Confusion Matrix and Statistics*** 
 
 ```
             Reference
@@ -96,7 +96,7 @@ Prediction   Brittle NotBrittle
 ```
 
 ### Regularized Class Association Rules for Multi-class Problems (RCAR+)   
-**Training Data Confusion Matrix and Statistics**
+***Training Data Confusion Matrix and Statistics***
 ```
 Confusion Matrix and Statistics
 
@@ -126,7 +126,7 @@ Prediction   Brittle NotBrittle
        'Positive' Class : Brittle      
 ```
 
-**Testing Data Confusion Matrix and Statistics**
+***Testing Data Confusion Matrix and Statistics***
 
 ```
 Reference
