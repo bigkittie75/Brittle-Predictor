@@ -1,7 +1,41 @@
 # Brittle-Predictor
 Training and testing classification-based association rule mining for predicting brittle paper in library collections.
 
-## Accuracy of CBA Models
+## Summary of CBA Models
+**CBA**
+```
+Training:
+         Accuracy : 0.877
+**Balanced Accuracy : 0.7711**
+      Sensitivity : 0.6228        
+      Specificity : 0.9193
+   Pos Pred Value : 0.5591
+
+Testing:
+         Accuracy : 0.87
+**Balanced Accuracy : 0.7593**
+      Sensitivity : 0.6087        
+      Specificity : 0.9100
+   Pos Pred Value : 0.5091
+```
+***RCAR+***
+```
+Training:
+         Accuracy : 0.865
+**Balanced Accuracy : 0.804**
+      Sensitivity : 0.719        
+      Specificity : 0.889
+   Pos Pred Value : 0.516
+
+Testing:
+         Accuracy : 0.85
+**Balanced Accuracy : 0.7937**
+      Sensitivity : 0.7174        
+      Specificity : 0.4583
+   Pos Pred Value : 0.5091
+```
+
+## Full Statistics of CBA Models
 ### Classification Based on Assocation Rules Algorithm (CBA)
 **Training Data Confusion Matrix and Statistics**  
 
@@ -40,7 +74,7 @@ Prediction   Brittle NotBrittle
   Brittle         28         27
   NotBrittle      18        273
 
-Accuracy : 0.87         
+               Accuracy : 0.87         
                  95% CI : (0.83, 0.904)
     No Information Rate : 0.867        
     P-Value [Acc > NIR] : 0.476        
