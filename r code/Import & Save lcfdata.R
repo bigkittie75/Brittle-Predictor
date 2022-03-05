@@ -5,7 +5,7 @@ pacman::p_load(  # Use p_load function from pacman
   magrittr,      # Pipes
   pacman,        # Load/unload packages
   rio,           # Import/export data
-  tidyverse      # So many reasons
+  tidyverse,     # So many reasons
 )
 
 # LOAD AND PREPARE DATA ####################################
@@ -15,7 +15,7 @@ pacman::p_load(  # Use p_load function from pacman
 set.seed(1)
 
 df <- read.csv("~/Downloads/Raw F Training.csv", stringsAsFactors=TRUE)
-df <- select(df, -DISPLAY_CALL_NO)
+df <- select(df, -Call.Number)
 
 df %<>% 
   rename(y = Brittle) %>%   # Rename class variable as `y`
@@ -28,11 +28,14 @@ df %<>%
   ) %>%
   mutate(y = factor(y))  # Recode class label as factor
 
+#If rename needed rename(data, new = old)
+#df <- rename(df, PlaceCode = PlaceCode)
+
 df$PubDate <- as.double(df$PubDate)
 df$Age <- as.double(df$Age)
 
 # SAVE DATA ################################################
 
-df %>% saveRDS("data/lcpaper.rds")
+df %>% saveRDS("data/csudhsmpl.rds")
 
 
