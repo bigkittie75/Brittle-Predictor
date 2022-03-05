@@ -5,8 +5,11 @@ pacman::p_load(  # Use p_load function from pacman
   pacman,        # Load/unload packages
   rio,           # Import/export data
   tidyverse,     # So many reasons
-  plyr,          # Classification model
-  doParallel     
+  plyr,
+  tictoc,        #for counting time
+  supervisedPRIM,# Classification model
+  foreach,
+  doParallel
 )
 
 # use if training on split data from same sample
@@ -18,21 +21,25 @@ pacman::p_load(  # Use p_load function from pacman
 trn <- import("data/lcpaper.rds")
 tst <- import("data/csudhsample.rds")
 
-numCores <- detectCores()
-registerDoParallel(numCores) #start parallel
+numCores <- 16
+cl <- makePSOCKcluster(numCores)
+registerDoParallel(cl) #start parallel
 
 fitControl <- trainControl(method = "repeatedcv",
                            number = 10,   ## 10-fold CV
-                           repeats = 10)  ## repeated ten times
+                           repeats = 3)  ## repeated ten times
 
 set.seed(69)
-rrfFit1 <- train(y ~ ., data = trn, 
-                 method = "JRip", 
-                 trControl = fitControl)
 
-rrfGrid <- expand.grid(mtry = 2,
-                       coefReg = 8,
-                       coefImp = seq(0.65, 0.75, 0.01))
+tic("training time")
+rrfFit1 <- train(y ~ ., data = trn, 
+                 method = "PRIM", 
+                 trControl = fitControl)
+toc()
+
+rrfGrid <- expand.grid(peel.alpha = 2,
+                       paste.alpha = 8,
+                       mass.min = seq(0.65, 0.75, 0.01))
 
 rrfFit2 <- train(y ~ ., data = trn, 
                  method = "RRF", 
