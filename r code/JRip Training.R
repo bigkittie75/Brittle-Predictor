@@ -64,9 +64,9 @@ confusionMatrix(      # Create a confusion matrix
 
 # Test on CSUDH data
 tstdh <- import("data/csudhsample.rds")
-tstdh <- select(tstdh, -PlaceCode)
-tstdh <- relocate(tstdh, y, .after = last_col())
-tstdh <- discretizeDF(tstdh, methods = df)
+tstdh <- select(tstdh, -PlaceCode) # remove place code
+tstdh <- relocate(tstdh, y, .after = last_col()) #relocate y to match training data for disc
+tstdh <- discretizeDF(tstdh, methods = df) #disc using df as breaks
 
 confusionMatrix(      # Create a confusion matrix
   reference = tstdh$y,  # True values
@@ -76,11 +76,12 @@ confusionMatrix(      # Create a confusion matrix
   )
 )
 
-# Test on U-V data ERROR "all arguments must have the same length" maybe Region issue? No overlap?
+# Test on U-V data
 tstuv <- import("data/lcpaperUV.rds")
-tstuv <- select(tstuv, -PlaceCode)
-tstuv <- relocate(tstuv, y, .after = last_col())
-tstuv <- discretizeDF(tstuv, methods = df)
+tstuv <- select(tstuv, -PlaceCode) # remove place code
+tstuv <- relocate(tstuv, y, .after = last_col()) # relocate y to match training data for disc
+tstuv <- discretizeDF(tstuv, methods = df) # disc using df as breaks
+tstuv <- tstuv[complete.cases(tstuv),] # removing missing values
 
 confusionMatrix(      # Create a confusion matrix
   reference = tstuv$y,  # True values
